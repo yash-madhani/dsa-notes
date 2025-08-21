@@ -1,0 +1,2 @@
+[[Basic Python]]
+[[Numpy Arrays]]
